@@ -11,6 +11,12 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 layout_spectrum: 0.058858780190348625
+author:
+  name: Kevin S. Bouchonnet
+  email: kevinb@nerdsoncall.com
+  url: 'http://nerdsoncall.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b74e5382-3f5c-44ae-b483-6fa69b3c3d04.jpg
 name: Nerd Notes
 title: Nerds on Call
 description: On-site Computer Services in Your Home or Office
