@@ -1,4 +1,27 @@
+name: Nerd Notes
+favicon: null
+layout_spectrum: 0.83236
 typography_spectrum: 0.92357
+author:
+  name: Kevin S. Bouchonnet
+  email: kevinb@nerdsoncall.com
+  url: 'http://nerdsoncall.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b74e5382-3f5c-44ae-b483-6fa69b3c3d04.jpg
+title: Nerds on Call
+description: On-site Computer Services in Your Home or Office
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -10,27 +33,4 @@ color:
   lightness: 0.6021936028264463
   saturation: 0.5937394290231168
   rhythmicContrast: 0.20306146540679038
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.45909
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Kevin S. Bouchonnet
-  email: kevinb@nerdsoncall.com
-  url: 'http://nerdsoncall.com'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b74e5382-3f5c-44ae-b483-6fa69b3c3d04.jpg
-name: Nerd Notes
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Nerds on Call
-description: On-site Computer Service in Your Home or Office
 purpose: []
