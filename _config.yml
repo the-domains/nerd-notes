@@ -1,0 +1,14 @@
+layout_spectrum: 0.058858780190348625
+typography_spectrum: 0.3684791433624923
+color:
+  brandStrength: 0.5165594909340143
+  lightness: 0.6021936028264463
+  saturation: 0.5937394290231168
+  rhythmicContrast: 0.20306146540679038
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Nerd Notes
