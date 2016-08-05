@@ -6,9 +6,9 @@ color:
   saturation: 0.5937394290231168
   rhythmicContrast: 0.20306146540679038
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
 name: Nerd Notes
